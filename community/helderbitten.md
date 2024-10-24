@@ -1,4 +1,6 @@
-Olá, eu me chamo Helder Bittencourt, este é o meu primeiro Bootcamp na DIO. Estou gostando muito. Meu objetivo profissional é continuar na trilha de cloud computing e obter as certificações Azure, AWS e Google.
+Olá, eu me chamo Helder Bittencourt, este é o meu primeiro Bootcamp na DIO. 
+
+Estou gostando muito. Meu objetivo profissional é continuar na trilha de cloud computing e obter as certificações Azure, AWS e Google.
 
 Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helderbitten/)
